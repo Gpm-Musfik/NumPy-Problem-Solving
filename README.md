@@ -33,12 +33,14 @@ To get started with this repository, you will need to have Python and NumPy inst
 
 1. **Clone the repository:**
 
- git clone https://github.com/Gpm-Musfik/-50-NumPy-Practice-Code.git
+   ```bash
+   git clone https://github.com/Gpm-Musfik/-50-NumPy-Practice-code.git
+   ```
 
 2. **Navigate into the project folder:**
 
    ```bash
-cd -50-NumPy-Practice-Code
+   cd -50-NumPy-Practice-code
    ```
 
 3. **Install the required dependencies:**
@@ -72,10 +74,10 @@ Each problem is self-contained and includes a description of the task and any re
 ## How to Use This Repository
 
 1. **Browse the problems** – Each problem is located in the `code` directory and can be solved independently.
-2. **Read the instructions** – Each problem contains an explanation separately and a comment.
+2. **Read the instructions** – Each problem contains an explanation.
 3. **Solve the problems** – Write your solutions using NumPy and save them in a Python file.
 4. **Test your solutions** – You can test your solutions by running the Python script to check if the output matches the expected results.
-5. **Reference the solutions** – If you get stuck, you can refer to the solutions provided in the `solutions` directory, which contains working solutions for each problem.
+5. **Reference the solutions** – If you get stuck, you can refer to the solutions provided in the `code` directory, which contains working solutions for each problem.
 
 ---
 
