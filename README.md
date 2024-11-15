@@ -33,8 +33,7 @@ To get started with this repository, you will need to have Python and NumPy inst
 
 1. **Clone the repository:**
 
-   ```bash
-(https://github.com/Gpm-Musfik/-50-NumPy-Practice-Code)   ```
+ git clone https://github.com/Gpm-Musfik/-50-NumPy-Practice-Code.git
 
 2. **Navigate into the project folder:**
 
