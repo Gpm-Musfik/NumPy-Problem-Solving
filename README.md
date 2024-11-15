@@ -34,13 +34,12 @@ To get started with this repository, you will need to have Python and NumPy inst
 1. **Clone the repository:**
 
    ```bash
-git clone https://github.com/your-username/NumPy-50-Problem-Solving.git
-   ```
+(https://github.com/Gpm-Musfik/-50-NumPy-Practice-Code)   ```
 
 2. **Navigate into the project folder:**
 
    ```bash
-cd NumPy-50-Problem-Solving
+cd -50-NumPy-Practice-Code
    ```
 
 3. **Install the required dependencies:**
