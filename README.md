@@ -1,6 +1,6 @@
 
 
-# NumPy 47 Problem Solving
+# NumPy 50 Problem Solving
 
 ## Table of Contents
 - [About](#about)
@@ -14,7 +14,7 @@
 
 ## About
 
-This repository contains a collection of 47 problems that focus on solving real-world problems using NumPy, a powerful library for numerical computing in Python. The problems aim to help learners develop problem-solving skills and gain a deeper understanding of how to apply NumPy for data manipulation, mathematical computations, and algorithmic thinking.
+This repository contains a collection of 50 problems that focus on solving real-world problems using NumPy, a powerful library for numerical computing in Python. The problems aim to help learners develop problem-solving skills and gain a deeper understanding of how to apply NumPy for data manipulation, mathematical computations, and algorithmic thinking.
 
 The problems are designed for anyone looking to improve their proficiency in NumPy, from beginners to more advanced users. Each problem provides a practical scenario with a set of requirements, and the solution will require applying various NumPy functions, concepts, and techniques.
 
@@ -57,7 +57,7 @@ To get started with this repository, you will need to have Python and NumPy inst
 
 ## Problems Included
 
-This repository contains 47 distinct problems, each aimed at improving your understanding of NumPy. Some of the types of problems included are:
+This repository contains 50 distinct problems, each aimed at improving your understanding of NumPy. Some of the types of problems included are:
 
 1. **Basic Array Operations** – Learn how to create, manipulate, and perform basic operations on NumPy arrays.
 2. **Indexing and Slicing** – Master indexing and slicing techniques to access and modify array elements.
