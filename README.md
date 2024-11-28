@@ -1,6 +1,6 @@
 
 
-# NumPy 50 Problem Solving
+# NumPy Problem Solving
 
 ## Table of Contents
 - [About](#about)
@@ -14,7 +14,7 @@
 
 ## About
 
-This repository contains a collection of 50 problems that focus on solving real-world problems using NumPy, a powerful library for numerical computing in Python. The problems aim to help learners develop problem-solving skills and gain a deeper understanding of how to apply NumPy for data manipulation, mathematical computations, and algorithmic thinking.
+This repository contains a collection of some problems that focus on solving real-world problems using NumPy, a powerful library for numerical computing in Python. The problems aim to help learners develop problem-solving skills and gain a deeper understanding of how to apply NumPy for data manipulation, mathematical computations, and algorithmic thinking.
 
 The problems are designed for anyone looking to improve their proficiency in NumPy, from beginners to more advanced users. Each problem provides a practical scenario with a set of requirements, and the solution will require applying various NumPy functions, concepts, and techniques.
 
@@ -34,13 +34,13 @@ To get started with this repository, you will need to have Python and NumPy inst
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Gpm-Musfik/-50-NumPy-Practice-code.git
+   git clone https://github.com/Gpm-Musfik/-50-NumPy-Problems-Solving.git
    ```
 
 2. **Navigate into the project folder:**
 
    ```bash
-   cd -50-NumPy-Practice-code
+   cd NumPy-Problems-Solving
    ```
 
 3. **Install the required dependencies:**
