@@ -34,7 +34,7 @@ To get started with this repository, you will need to have Python and NumPy inst
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Gpm-Musfik/-50-NumPy-Problems-Solving.git
+   git clone https://github.com/Gpm-Musfik/NumPy-Problems-Solving.git
    ```
 
 2. **Navigate into the project folder:**
